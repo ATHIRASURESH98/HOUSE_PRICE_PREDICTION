@@ -25,6 +25,17 @@ The price prediction using this data is done by Machine Learning in Python.  The
     - sqft
     - bath
     - bhk
+## **Usage**
+To run the code, you can follow these steps:
+
+1. Clone the repository
+2. Install the required libraries using pip install -r requirements.txt
+3. Launch Jupyter Notebook using jupyter notebook
+4. Open the file Home_price_prediction.ipynb
+5. Run the code cells in the notebook
+
+## **Conclusion**
+This prediction help to predict price of house in bengaluru city. This code can be further modified and extended to perform more acurate prediction by adding more values and columns
 
 
 
