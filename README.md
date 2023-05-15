@@ -1,3 +1,8 @@
 # **HOUSE PRICE PREDICTION**
-This repository contains code for predicting the house price of houses in Bengalure
-This repository contains code for analyzing the election results of the 2021 Kerala Assembly Elections using Pandas. The dataset used in this analysis is sourced from the Election Commission of India (ECI) website.
+This repository contains code for predicting the house price of houses in Bengaluru using some machine learning models in python.  The dataset used in this analysis is sourced from the kaggle website.
+## **Requirements**
+To run this code, you need to have the following installed:
+
+- Python 3.x
+- Pandas
+- Jupyter Notebook
