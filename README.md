@@ -19,12 +19,12 @@ The data used in this analysis is sourced from the Kaggle website. It contains t
 - price: Total price of the house
 ## Analysis
 The price prediction using this data is done by Machine Learning in Python.  The code for the analysis is provided in the Jupyter Notebook file Home_price_prediction.ipynb.
-In this prediction using GridSearchCV we find that linear model is the best fit model.
-For the prediction using linear model we use following columns:
--location
--sqft
--bath
--bhk
+- In this prediction using GridSearchCV we find that linear model is the best fit model.
+- For the prediction using linear model we use following columns:
+    - location
+    - sqft
+    - bath
+    - bhk
 
 
 
